@@ -37,7 +37,7 @@ Zakari's https://github.com/aaz000966/CS5590-IOT/wiki/ICP4
 
 Hari's https://github.com/hbyadav/IOT/wiki/ICP4
 
-ICP4
+ICP5
 https://github.com/plfoley10/IoT-Robotics/wiki/ICP-5-Wiki
 
 Landon's https://github.com/hbyadav/IOT/wiki/ICP5
