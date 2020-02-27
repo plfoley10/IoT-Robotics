@@ -36,3 +36,12 @@ Landon's https://github.com/lvolkmann/cs-490-iot/wiki/ICP-4
 Zakari's https://github.com/aaz000966/CS5590-IOT/wiki/ICP4
 
 Hari's https://github.com/hbyadav/IOT/wiki/ICP4
+
+ICP4
+https://github.com/plfoley10/IoT-Robotics/wiki/ICP-5-Wiki
+
+Landon's https://github.com/hbyadav/IOT/wiki/ICP5
+
+Zakari's https://github.com/aaz000966/CS5590-IOT/wiki/ICP5
+
+Hari's https://github.com/hbyadav/IOT/wiki/ICP5
