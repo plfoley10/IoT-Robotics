@@ -175,6 +175,7 @@ void light_loop()
   else if (light > 100){
     digitalWrite(greenIndicatorPin, LOW);
     digitalWrite(redIndicatorPin, HIGH);
+    lcd.print("Warning!!!"); 
   }
   else {
     digitalWrite(greenIndicatorPin, LOW);
@@ -253,7 +254,7 @@ void lcd_out() {
   lcd.clear();
   lcd.setCursor(0,0);
   lcd.print("BPM = ");
-  lcd.setCursoor(0,1);
+  lcd.setCursor(0,1);
   lcd.print(BPM);
   lcd.print(" BPM");
   delay(1000);
